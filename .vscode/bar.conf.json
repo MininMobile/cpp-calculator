@@ -1,6 +1,0 @@
-{
-    "commands": {
-        "build": "gcc main.cpp",
-        "run": "./main.exe"
-    }
-}
