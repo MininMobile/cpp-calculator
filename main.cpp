@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
 
 		std::cout << "Enter first number: ";
 
-		std::getline(std::cin, input);
+		std::cin >> input;
 
 		std::cout << "\r\nmy name " << input;
 	}
